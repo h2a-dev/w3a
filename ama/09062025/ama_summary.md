@@ -94,7 +94,7 @@ Each investor needs to consider:
 ## Q&A Highlights
 
 ### On Security
-- Bunny and Delta Prime hacks discussed - neither were T1 protocols
+- Bunny and Delta Prime hacks discussed - neither were Tier 1 protocols
 - UST collapse mentioned as learning experience
 - Emphasis on sticking to battle-tested protocols
 
