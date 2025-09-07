@@ -13,7 +13,11 @@
 
 ### 2. New Module: Perpetual DEXs
 - **Focus**: Earning from trader losses on decentralized exchanges
-- **Platforms Covered**: GMX, GM-pool, GLV-pool, Hyperliquid, Jupiter Perpetual Exchange (JLP on Solana)
+- **Platforms Covered**: 
+  - [GMX](https://gmx.io) - Decentralized perpetual exchange with liquidity provider rewards
+  - GM-pool & GLV-pool - GMX v2 liquidity provision mechanisms
+  - [Hyperliquid](https://hyperliquid.xyz) - High-performance L1 for perpetual trading
+  - [Jupiter Perpetual Exchange](https://jup.ag/perps) (JLP on Solana) - Solana's perpetual trading aggregator
 - **Content**: Entry/exit strategies, mechanics, systematic capital growth approaches
 
 ### 3. Group Dynamics Program
@@ -26,19 +30,19 @@
 
 ### Fundamental DeFi Instruments (80% of Capital)
 **Lending Markets:**
-- Aave
-- Compound
-- Morpho
-- Fluid
-- Euler Finance
+- [Aave](https://aave.com) - Leading decentralized lending protocol for borrowing and lending crypto assets
+- [Compound](https://compound.finance) - Algorithmic money market protocol for earning interest on deposits
+- [Morpho](https://morpho.org) - Peer-to-peer lending optimizer built on top of Aave and Compound
+- [Fluid](https://fluid.instadapp.io) - Smart debt protocol with automated position management
+- [Euler Finance](https://www.euler.finance) - Modular lending protocol with customizable risk parameters
 
 **DEXs:**
-- Uniswap
-- Aerodrome
-- Balancer
+- [Uniswap](https://uniswap.org) - Largest decentralized exchange using automated market maker model
+- [Aerodrome](https://aerodrome.finance) - Base network's central liquidity hub and DEX
+- [Balancer](https://balancer.fi) - Automated portfolio manager and decentralized exchange
 
 **Perpetual DEXs:**
-- GMX
+- [GMX](https://gmx.io) - Decentralized perpetual exchange with up to 50x leverage
 
 ### Risk Management Principles
 1. **Don't chase "secret strategies"** - They don't exist and won't earn more money
@@ -49,9 +53,9 @@
 ## Current Market Strategies
 
 ### Stablecoin Strategies (12-15% APY)
-1. **Pendle Finance**: 16% fixed yield on USDE for 18 days
-2. **Fluid Looping**: With wstETH/USDC pairs
-3. **Aave Looping**: Using principal tokens, 3 loops can achieve ~18% yield
+1. **[Pendle Finance](https://app.pendle.finance/trade/markets/0x6d98a2b6cdbf44939362a3e99793339ba2016af4/swap?view=pt&chain=ethereum)**: 16% fixed yield on USDE for 18 days - Yield tokenization protocol for fixed income
+2. **[Fluid](https://fluid.io/multiply/1) Looping**: With wstUSR/USDC pairs - Leveraged yield farming strategy
+3. **[Aave](https://app.aave.com/reserve-overview/?underlyingAsset=0xbc6736d346a5ebc0debc997397912cd9b8fae10a&marketName=proto_mainnet_v3) Looping**: Using principal tokens, 3 loops can achieve ~18% yield - Recursive borrowing for enhanced yields
 
 ### Key Strategy Insights
 - **Bitcoin/ETH as collateral**: Never use directly in liquidity pools without lending markets to avoid missing market growth
@@ -95,12 +99,13 @@ Each investor needs to consider:
 - Emphasis on sticking to battle-tested protocols
 
 ### On New Opportunities
-- Arbitrum DRIP program: 40M in rewards but yields already compressed
-- Linea Ignition: ~11% total yield including token rewards
+- [Arbitrum DRIP](https://arbitrumdrip.com) program: 40M in rewards but yields already compressed - L2 scaling solution incentive program
+- [Linea](https://linea.build) Ignition: ~11% total yield including token rewards - zkEVM L2 liquidity mining program
 - Various new perpetual DEXs emerging but sticking with GMX recommended
 
 ### On Tools
-- Meteor pools analyzer link provided for Solana
+- [Meteora](https://meteora.ag) pools analyzer link provided for Solana - Dynamic liquidity market maker on Solana
+- [Kamino Finance](https://kamino.finance) - Solana automated liquidity management protocol mentioned for SOL strategies
 - Emphasis on using native tools (Uniswap, Aave) interfaces
 - Backtesting essential before major capital deployment
 
