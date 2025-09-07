@@ -1,4 +1,4 @@
-# Summary: Ivan Shashkov's Monthly AMA Session - Web3Academy
+# Summary: Ivan Shashkov's Monthly AMA Session - Web3Academy - 9/6/2025
 
 ## Key Announcements
 
